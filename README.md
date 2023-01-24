@@ -1,2 +1,0 @@
-# Lorenzo rizzolo
-## Personal Page
