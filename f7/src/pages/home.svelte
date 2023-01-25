@@ -17,7 +17,7 @@
           <Link cardClose color="white" class="card-opened-fade-in" style="position: absolute; right: 15px; top: 15px" iconF7="xmark_circle_fill" />
         </div>
         <div class="card-content-padding">
-          <Button href="/cv/">Cli </Button>
+          <Button style="color:white;" href="/cv/">clicca per visualizzare il PDF del CV</Button>
         </div>
       </CardContent>
     </Card>

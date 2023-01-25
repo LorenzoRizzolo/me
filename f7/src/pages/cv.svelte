@@ -1,12 +1,12 @@
 <script>
-    import { Navbar, NavTitle, Page } from "framework7-svelte";
+    import { Navbar, NavLeft, NavTitle, Page, Button } from "framework7-svelte";
 
 </script>
 <Page>
     <Navbar>
-        <NavTitle>
-            CV
-        </NavTitle>
+        <NavLeft>
+            <Button back> Back</Button>
+        </NavLeft>
     </Navbar>
 
     <iframe src="https://lorenzorizzolo.github.io/me/CV_Lorenzo_Rizzolo.pdf" frameborder="0" style="width: 100%; height: 100%;"></iframe>
