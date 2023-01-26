@@ -128,7 +128,7 @@
           <Link cardClose color="white" class="card-opened-fade-in" style="position: absolute; right: 15px; top: 15px" iconF7="xmark_circle_fill" />
         </div>
         <div class="card-content-padding">
-          contenuto
+          Fequentazione indirizzo di <i>informatica</i> all'Istituto Internazinoale Edoardo Agnelli. (ancora in corso)
         </div>
       </CardContent>
     </Card>
